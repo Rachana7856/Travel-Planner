@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#controls {
+    padding: 1rem;
+    background: #f4f4f4;
+    border-bottom: 1px solid #ccc;
+}
+
+#map {
+    flex: 1;
+    height: 100%;
+}
+
+input {
+    margin: 0.25rem;
+    padding: 0.5rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    margin-top: 0.5rem;
+}
