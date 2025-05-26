@@ -13,19 +13,6 @@ This is a travel planning application that helps users find the shortest path be
 2. Open `index.html` in a browser.
 3. Choose source and destination to find the shortest path.
 
-## 📁 Project Structure
-travel/
-├── backend/
-│ ├── pathfinder.cpp
-│ ├── pathfinder.exe
-│ ├── server.py
-│ └── nlohmann/json.hpp
-├── frontend/
-│ ├── index.html
-│ ├── script.js
-│ └── styles.css
-└── README.md
-
 
 ## 📌 Notes
 - Make sure you have Python installed to run the backend.
